@@ -6,7 +6,13 @@ Config.Wait = 10000 -- 24H SONO 86400000
 
 Config.Riconpensa = {
     Item = 'money',
-    Amount = math.random(10000, 20000)
+    Amount = math.random(10000, 20000),
+    Oggetti = 1
+}
+
+ItemRicevere = {
+	'armour',
+	'bandage',
 }
 
 Config.AlertDialog = {
