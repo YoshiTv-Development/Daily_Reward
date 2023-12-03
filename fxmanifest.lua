@@ -5,8 +5,8 @@ lua54 'yes'
 name 'Daily_Reward'
 author 'YoshiTv'
 description 'Daily Reward'
-discord 'https://discord.gg/XnYDhzWyuq'
-version '1.1'
+discord 'https://discord.gg/v73eQpGp5b'
+version '1.0'
 
 shared_script {
     '@es_extended/imports.lua',
